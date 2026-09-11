@@ -1,0 +1,25 @@
+# Amaryllis Solutions
+
+> AI agents and business process automation, AI integration engineering and legacy-to-AI-ready modernization. Supporting expertise: .NET development and automated testing.
+
+Email: contact@amaryllis.by
+Location: Minsk, Belarus.
+Languages: Russian and English.
+
+## Pages
+- [](https://amaryllis.by/)
+- [services/ai-agents/](https://amaryllis.by/services/ai-agents/)
+- [services/ai-integration-engineering/](https://amaryllis.by/services/ai-integration-engineering/)
+- [services/legacy-ai-modernization/](https://amaryllis.by/services/legacy-ai-modernization/)
+- [services/dotnet-development/](https://amaryllis.by/services/dotnet-development/)
+- [services/ai-test-automation/](https://amaryllis.by/services/ai-test-automation/)
+- [resources/project-brief/](https://amaryllis.by/resources/project-brief/)
+- [en/](https://amaryllis.by/en/)
+- [en/services/ai-agents/](https://amaryllis.by/en/services/ai-agents/)
+- [en/services/ai-integration-engineering/](https://amaryllis.by/en/services/ai-integration-engineering/)
+- [en/services/legacy-ai-modernization/](https://amaryllis.by/en/services/legacy-ai-modernization/)
+- [en/services/dotnet-development/](https://amaryllis.by/en/services/dotnet-development/)
+- [en/services/ai-test-automation/](https://amaryllis.by/en/services/ai-test-automation/)
+- [en/resources/project-brief/](https://amaryllis.by/en/resources/project-brief/)
+
+No public pricing, certifications or client performance statistics are stated on this website. Contact the team for project scope and estimates.
